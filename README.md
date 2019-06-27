@@ -18,7 +18,10 @@ each report. [Fig.0. Major sections in a typical report]:
 6. [Genome browser](06_browser.md)
 7. [Download](07_download.md)
 
-
+This user manual can be read online
+[here](https://biomystery.gitbooks.io/epigen_setqc_manual/content/)
+and downloaded as pdf
+[here](https://legacy.gitbook.com/download/pdf/book/biomystery/epigen_setqc_manual). 
 
 
 
