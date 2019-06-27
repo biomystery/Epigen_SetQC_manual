@@ -10,7 +10,7 @@
   * [Fragment size distribution](03_alignment/03e_frag.md)
   * [GC content after alignment](03_alignment/03f_gc.md)
 * [Signal-to-noise metrics](04_signal.md)
-* [Peak metrics](05_peak.md)
+* [Peak metrics](05_peak/README.md)
   * [Peak counts](05_peak/05a_peakcounts.md). 
   * [Fraction of Reads in Peaks (FRiP)](05_peak/05b_FRiP.md). 
   * [PCA](05_peak/05c_pca.md).

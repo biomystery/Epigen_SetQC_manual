@@ -1,5 +1,5 @@
-# UCSD Center for Epigenomics ATAC-seq data report's user manual
-
+# ATAC-seq data report's user manual
+@ UCSD Center for Epigenomics
 
 The Center for Epigenomics at University of California San Diego
 (UCSD) generates a data report upon completion of all ATAC-seq
@@ -18,7 +18,7 @@ each report. [Fig.0. Major sections in a typical report]:
 6. [Genome browser](06_browser.md)
 7. [Download](07_download.md)
 
-* [Glossary](GLOSSARY.md) 
+
 
 
 
