@@ -17,11 +17,13 @@ a. **Per base N content.** This plot shows the percentage of reads
  each library. It is typical to see slightly elevated N content of
  ~0.5% at the beginning and end of the read. Other anomalies can
  indicate technical problems during the sequencing run. 
+ 
 b. **Mean Quality Scores.** This plot the average base call quality score
  (“phred” score) at each position along the read length for each
  library. It is typical to see slightly lower scores at the  beginning 
  and end of the read. Average scores below 30 can indicate technical
  problems during  the sequencing run.
+ 
 c. **FastQC: Sequence Duplication Levels.** This plot shows the percentage
  of sequences in the library that are present at different
  frequencies. This can provide an early indication of library
